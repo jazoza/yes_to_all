@@ -1,5 +1,5 @@
-### Yes to all 
-### repository for a PZI MDMDA semester project, Rotterdam, autumn 2008
+# Yes to all 
+## repository for a PZI MDMDA semester project, Rotterdam, autumn 2008
 
 Yes to all is a set of playful interventions performed online and offline. 
 http://yes.kucjica.org
