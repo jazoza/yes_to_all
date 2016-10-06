@@ -1,0 +1,2 @@
+content	yestoall	content/
+overlay	chrome://browser/content/browser.xul	chrome://yestoall/content/script-compiler-overlay.xul
